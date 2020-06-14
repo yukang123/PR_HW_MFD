@@ -8,7 +8,7 @@ codes/：
     
 1.下载数据集链接：https://github.com/yukang123/PR_HW_MFD
 linux系统使用wget命令 wget https://codeload.github.com/yukang123/PR_HW_MFD/zip/master
-Yolo: 1) cd Yolo 2) 使用wget命令下载 3) 解压压缩包 unzip master 4)将文件夹重命名为data linux系统 mv PR_HW_MFD-master data
+Yolo: 1) cd Yolo 2) 使用wget命令下载 3) 解压压缩包 unzip master 4)将解压后的文件夹中的all_data文件夹移动至Yolo项目根目录中5)将移动后的all_data文件夹重命名为data linux系统 mv PR_HW_MFD-master data
 Faster RCNN: 1) cd simple-masked-face-faster-r-cnn-pytorch1.0/data 2) 使用wget命令下载 3) 解压压缩包 unzip master 4)将文件夹重命名为AIZOO linux系统 mv PR_HW_MFD-master AIZOO
 SSD: 1) 1) cd simple-masked-face-ssd-pytorch/ssd/data/datasets 2) 使用wget命令下载 3) 解压压缩包 unzip master 4)将文件夹重命名为AIZOO linux系统 mv PR_HW_MFD-master AIZOO
 
