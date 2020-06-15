@@ -1,0 +1,10 @@
+mean_image_hight:758.68 ;max_image_hight:2784.00 ;min_image_hight:98.00
+mean_image_width:782.81 ;max_image_width:2268.00 ;min_image_width:100.00
+mean_max_size:889.03 ;mean_min_size:652.46
+mean_box_height:140.94 ;mean_box_weight:105.48; mean_height_weight_ratio:1.36
+max_box_ratio:6.08 ;min_box_ratio:0.32
+max_box_size:1289.00 ;min_box_size:3
+box_num_per_image:2.09 ;max_box_num_per:228 ;min_box_num_per:0
+total_boxn:16642 ;total_difficult_boxes:130
+total_images:7958 ;zero_box_image_num:2
+total_faces:12615 ;total_masked_faces:4027
